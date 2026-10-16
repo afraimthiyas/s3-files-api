@@ -1,0 +1,3 @@
+{ "compilerOptions": { "module": "commonjs", "target": "ES2021", "outDir": "./dist", "rootDir": "./src",
+  "experimentalDecorators": true, "emitDecoratorMetadata": true, "esModuleInterop": true,
+  "strict": false, "skipLibCheck": true, "incremental": true } }
